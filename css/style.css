@@ -2484,3 +2484,13 @@ address { font-style: normal; }
     transform: none;
   }
 }
+.bug-frame {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.bug-frame img {
+    max-width: 400px;
+    width: 100%;
+}  
